@@ -3,3 +3,12 @@
     padding: 0;
     box-sizing: border-box;
 }
+.bg_header {
+    background-color: rgb(255, 105, 0);
+}
+.bg_footer {
+    background-color: rgb(26, 26, 26);
+}
+.font_color_w {
+    color: white;
+}
